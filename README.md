@@ -1,2 +1,16 @@
-# Calculator_Application
- Overview This Flutter application is a simple yet functional calculator that allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, division, square root, and exponentiation. The user interface is designed to be user-friendly, featuring buttons for numerical input and operations.
+# calculator137
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
