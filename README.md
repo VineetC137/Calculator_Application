@@ -35,7 +35,10 @@ This Flutter application is a simple yet functional calculator that allows users
 - Press `=` to evaluate the expression, and the result will be displayed in the text field.
 
 ## Screenshots
-*(Include screenshots of your app here)*
+
+![Screenshot_20240925-002302](https://github.com/user-attachments/assets/ab9f0f30-49a5-4416-94f7-30ea0add1b3f)
+![Screenshot_20240925-002725](https://github.com/user-attachments/assets/f923f9d7-70d9-4c0c-8d2b-e7a7626a5f1e)
+
 
 ## Contributing
 Feel free to fork the repository and make contributions! Issues and pull requests are welcome.
