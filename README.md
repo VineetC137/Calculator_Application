@@ -18,24 +18,6 @@ This Flutter application is a simple yet functional calculator that allows users
 - Flutter SDK
 - Dart SDK
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/flutter_calculator.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd flutter_calculator
-   ```
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Run the app:
-   ```bash
-   flutter run
-   ```
-
 ## Code Structure
 ### Main Components
 - **MyApp**: The main StatefulWidget that holds the entire calculator application logic and UI.
@@ -62,9 +44,3 @@ Feel free to fork the repository and make contributions! Issues and pull request
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-## Additional Notes
-- Ensure to include a `.gitignore` file to avoid committing unnecessary files (e.g., build artifacts).
-- You may want to add a `README.md` with detailed installation instructions and examples.
-
-By following this structure, you'll create a comprehensive and user-friendly GitHub repository for your Flutter Calculator app. Let me know if you need any more specific details or further assistance!
